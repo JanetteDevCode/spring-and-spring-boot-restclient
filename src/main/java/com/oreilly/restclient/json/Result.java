@@ -1,4 +1,4 @@
-package com.oreilly.restclient.services;
+package com.oreilly.restclient.json;
 
 public class Result {
     private String formattedAddress;
